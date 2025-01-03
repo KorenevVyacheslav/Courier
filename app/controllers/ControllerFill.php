@@ -19,8 +19,6 @@ class ControllerFill extends Controller {
 			'table_filled' => false						// переменная для отображения сообщения
 		];
 
-		//$random_courier_id = GetRandom::get_random_courier_id ();								// получаем id случайного курьера
-		//	$first_courier_id = GetRandom::get_first_courier_id ();								// получаем id первого курьера
 		$all_courier = DB::get_courier_table();													// получаем всех курьеров
 		// проходим по каждому курьеру и генерируем для него записи случайным образом
 		// но с условием, что на какую-либо дату курьер может быть только в одной поездке
@@ -42,7 +40,7 @@ class ControllerFill extends Controller {
 						$start_date = $order['start_date'];													// получаем дату начала поездки
 						$end_date = date('Y-m-d',strtotime( $start_date. "+".$period." day"));				// вычисляем конечную дату окончания поездки
 
-						// проводим проверку слуучайной даты, если она попадает в период, то устанавливаем флаг записи false 
+						// проводим проверку случайной даты, если она попадает в период, то устанавливаем флаг записи false 
 						if (($random_date >= $start_date) && ($random_date <= $end_date))	{$record = false;}	//дата неликвидна
 					}	
 					// 	раскомментировать, если генерация идет по количеству записей
@@ -51,10 +49,9 @@ class ControllerFill extends Controller {
 					if (($record == true)) {DB::save_order($random_town_id, $courier['id'], $random_date);};			// есть разрешение на запись, сохраняем
 					$sum = GetSumDays::get_sum($courier['id']);															// подсчёт суммы дней
 					//}	while ( count ($orders) < $max_orders);				// раскомментировать, если заполнение идет по количеству записей
-	//				}	while ( $sum < 45);									// условие прекращения генерации записей - число дней 45		
-				}	while ( false);
+			}	while ( $sum < 45);											// условие прекращения генерации записей - число дней 45		
 				
-				}
+	}
 
 				$data = [								
 					'table_filled' => true						

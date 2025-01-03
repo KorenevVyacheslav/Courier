@@ -24,8 +24,7 @@ class ControllerOrder extends Controller	{
 
 	if (isset($_POST['town_id']) && isset ($_POST['courier_id']) )	{ 
 
-		// метод записи заказа
-		// save_order($town_id, $courier_id, $date)
+		// метод записи заказа	save_order($town_id, $courier_id, $date)
 		$id = DB::save_order($_POST['town_id'], $_POST['courier_id'], $_POST['date']);
 			if ($id) {
 				$data['reg']=true;

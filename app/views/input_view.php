@@ -55,7 +55,7 @@
     </div>
 
     <?php if ($data['check'] == false): ?>
-        <div class = "text-dark" style="margin-top: 20px"> <h5> Ваша таблица заказов пустая. Нажмите кнопку "Заполнить". </h5></div>
+        <div class = "text-warning" style="margin-top: 20px"> <h5> Ваша таблица заказов пустая. Нажмите кнопку "Заполнить". </h5></div>
             <div class="col s12 center-align" style="margin-top: 20px">
                 <a href="/fill" class="btn btn-primary text-dark" ><b>Заполнить таблицу </b><i class="material-icons right">&#128190;</i></a>
             </div>
