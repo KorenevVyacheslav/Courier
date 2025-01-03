@@ -22,10 +22,9 @@ class ControllerInput extends Controller	{
 	   
 
 
-		$check = DB::get_orders_table ();									// если нет ни одной записи, то надо вывести кнопку заполнения таблицы
-		//if (!$check) header("Location:". DIRECTORY_SEPARATOR. "fill");	// запуск скрипта для наполнения таблицы курьеров  /chat 
+		$check = DB::get_orders_table ();											// если нет ни одной записи, то надо вывести кнопку заполнения таблицы
 		 		
-		if (!$check) $data['check'] = false;									// таблица пустая, значит выводим кнопку заполнения
+		if (!$check) $data['check'] = false;										// таблица пустая, значит выводим кнопку заполнения
 
 		$this->view->generate('input_view.php', 'template_view.php', $data);		// генерация изображения
 	}
