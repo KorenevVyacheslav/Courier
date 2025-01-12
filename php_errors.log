@@ -1,0 +1,282 @@
+[30-Dec-2024 07:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "Studentаааа" not found in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:12:07 UTC] PHP Fatal error:  Uncaught Error: Class "Studentаааа" not found in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:12:07 UTC] PHP Fatal error:  Uncaught Error: Class "Studentаааа" not found in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:12:10 UTC] PHP Fatal error:  Uncaught Error: Class "Studentаааа" not found in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:24:50 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Student::$name in /home/slava/Projects/dom1/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 37
+[30-Dec-2024 07:24:50 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Student::$name in /home/slava/Projects/dom1/index.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 37
+[30-Dec-2024 07:27:54 UTC] PHP Warning:  Undefined property: Student::$prop in /home/slava/Projects/dom1/index.php on line 28
+[30-Dec-2024 07:28:31 UTC] PHP Parse error:  syntax error, unexpected token "return", expecting "," or ";" in /home/slava/Projects/dom1/index.php on line 29
+[30-Dec-2024 07:28:38 UTC] PHP Parse error:  syntax error, unexpected token "return", expecting "," or ";" in /home/slava/Projects/dom1/index.php on line 29
+[30-Dec-2024 07:28:41 UTC] PHP Parse error:  syntax error, unexpected token "return", expecting "," or ";" in /home/slava/Projects/dom1/index.php on line 29
+[30-Dec-2024 07:29:03 UTC] PHP Warning:  Undefined property: Student::$prop in /home/slava/Projects/dom1/index.php on line 29
+[30-Dec-2024 07:29:03 UTC] PHP Warning:  Undefined property: Student::$prop in /home/slava/Projects/dom1/index.php on line 29
+[30-Dec-2024 07:29:03 UTC] PHP Warning:  Undefined property: Student::$prop in /home/slava/Projects/dom1/index.php on line 29
+[30-Dec-2024 07:36:11 UTC] PHP Warning:  Undefined variable $name in /home/slava/Projects/dom1/index.php on line 22
+[30-Dec-2024 07:36:11 UTC] PHP Warning:  Undefined variable $name in /home/slava/Projects/dom1/index.php on line 22
+[30-Dec-2024 07:36:11 UTC] PHP Warning:  Undefined variable $name in /home/slava/Projects/dom1/index.php on line 22
+[30-Dec-2024 07:36:11 UTC] PHP Warning:  Undefined variable $name in /home/slava/Projects/dom1/index.php on line 22
+[30-Dec-2024 07:42:37 UTC] PHP Fatal error:  Method User::__set() must take exactly 2 arguments in /home/slava/Projects/dom1/index.php on line 17
+[30-Dec-2024 07:42:37 UTC] PHP Fatal error:  Method User::__set() must take exactly 2 arguments in /home/slava/Projects/dom1/index.php on line 17
+[30-Dec-2024 07:42:37 UTC] PHP Fatal error:  Method User::__set() must take exactly 2 arguments in /home/slava/Projects/dom1/index.php on line 17
+[30-Dec-2024 07:50:46 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property User::$name in /home/slava/Projects/dom1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 28
+[30-Dec-2024 07:50:46 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property User::$name in /home/slava/Projects/dom1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 28
+[30-Dec-2024 07:50:46 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property User::$name in /home/slava/Projects/dom1/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 28
+[30-Dec-2024 07:52:48 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:48 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:48 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:48 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:59 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:59 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:59 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:52:59 UTC] PHP Parse error:  syntax error, unexpected variable "$this", expecting ";" in /home/slava/Projects/dom1/index.php on line 26
+[30-Dec-2024 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Object of class User could not be converted to string in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Object of class User could not be converted to string in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Object of class User could not be converted to string in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Object of class User could not be converted to string in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Object of class User could not be converted to string in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 07:53:40 UTC] PHP Fatal error:  Uncaught Error: Object of class User could not be converted to string in /home/slava/Projects/dom1/index.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 33
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[30-Dec-2024 08:19:21 UTC] PHP Parse error:  syntax error, unexpected token "(", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 39
+[05-Jan-2025 06:51:43 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Man::$name in /home/slava/Projects/dom1/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 14
+[05-Jan-2025 06:51:44 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Man::$name in /home/slava/Projects/dom1/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 14
+[05-Jan-2025 06:53:30 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Man::$name in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 06:53:30 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Man::$name in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 06:53:31 UTC] PHP Fatal error:  Uncaught Error: Cannot access private property Man::$name in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:12:28 UTC] PHP Fatal error:  Method Man::__get() must take exactly 1 argument in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:18:47 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 21
+[05-Jan-2025 07:18:47 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 21
+[05-Jan-2025 07:18:47 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 21
+[05-Jan-2025 07:18:47 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 21
+[05-Jan-2025 07:18:47 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 21
+[05-Jan-2025 07:18:48 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 21
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:19:45 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 22
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:11 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:20:44 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:21:13 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:21:16 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:21:24 UTC] PHP Parse error:  syntax error, unexpected single-quoted string "tel", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 07:21:55 UTC] PHP Warning:  Undefined property: Man::$tel in /home/slava/Projects/dom1/index.php on line 20
+[05-Jan-2025 07:21:55 UTC] PHP Warning:  Undefined property: Man::$tel in /home/slava/Projects/dom1/index.php on line 20
+[05-Jan-2025 07:21:55 UTC] PHP Warning:  Undefined property: Man::$tel in /home/slava/Projects/dom1/index.php on line 20
+[05-Jan-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:26:05 UTC] PHP Fatal error:  Uncaught Error: Object of class Man could not be converted to string in /home/slava/Projects/dom1/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 07:43:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:43:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:43:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:43:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:43:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:43:13 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:43:14 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 07:45:07 UTC] PHP Parse error:  syntax error, unexpected token ";" in /home/slava/Projects/dom1/index.php on line 11
+[05-Jan-2025 08:08:59 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:08:59 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:08:59 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:08:59 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:08:59 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:10:26 UTC] PHP Parse error:  syntax error, unexpected token "&", expecting identifier or variable or "{" or "$" in /home/slava/Projects/dom1/index.php on line 23
+[05-Jan-2025 08:37:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 08:37:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 08:37:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 08:37:36 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 08:38:19 UTC] PHP Parse error:  syntax error, unexpected token "}" in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 08:39:29 UTC] PHP Parse error:  syntax error, unexpected identifier "instace", expecting ";" in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 08:40:28 UTC] PHP Parse error:  syntax error, unexpected identifier "instace", expecting ";" in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 08:41:26 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/slava/Projects/dom1/index.php on line 18
+[05-Jan-2025 08:46:12 UTC] PHP Fatal error:  Uncaught Error: Non-static method PDFReader::getInstance() cannot be called statically in /home/slava/Projects/dom1/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 29
+[05-Jan-2025 08:46:12 UTC] PHP Fatal error:  Uncaught Error: Non-static method PDFReader::getInstance() cannot be called statically in /home/slava/Projects/dom1/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 29
+[05-Jan-2025 08:46:12 UTC] PHP Fatal error:  Uncaught Error: Non-static method PDFReader::getInstance() cannot be called statically in /home/slava/Projects/dom1/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 29
+[05-Jan-2025 08:46:12 UTC] PHP Fatal error:  Uncaught Error: Non-static method PDFReader::getInstance() cannot be called statically in /home/slava/Projects/dom1/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 29
+[05-Jan-2025 08:46:58 UTC] PHP Fatal error:  Uncaught Error: Non-static method PDFReader::getInstance() cannot be called statically in /home/slava/Projects/dom1/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 29
+[05-Jan-2025 10:11:20 UTC] PHP Warning:  Undefined variable $animalеподобный in /home/slava/Projects/dom1/index.php on line 14
+[05-Jan-2025 10:11:21 UTC] PHP Warning:  Undefined variable $animalеподобный in /home/slava/Projects/dom1/index.php on line 14
+[05-Jan-2025 10:34:48 UTC] PHP Parse error:  syntax error, unexpected token "=" in /home/slava/Projects/dom1/index.php on line 12
+[05-Jan-2025 10:36:14 UTC] PHP Fatal error:  Cannot redeclare getPartsFromFullname() (previously declared in /home/slava/Projects/dom1/index.php:58) in /home/slava/Projects/dom1/index.php on line 63
+[05-Jan-2025 11:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function factiorail() in /home/slava/Projects/dom1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 11:21:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function factiorail() in /home/slava/Projects/dom1/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 19
+[05-Jan-2025 11:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function factorail() in /home/slava/Projects/dom1/index.php:15
+Stack trace:
+#0 /home/slava/Projects/dom1/index.php(19): factorial()
+#1 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 15
+[05-Jan-2025 11:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function factorail() in /home/slava/Projects/dom1/index.php:15
+Stack trace:
+#0 /home/slava/Projects/dom1/index.php(19): factorial()
+#1 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 15
+[05-Jan-2025 11:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function factorail() in /home/slava/Projects/dom1/index.php:15
+Stack trace:
+#0 /home/slava/Projects/dom1/index.php(19): factorial()
+#1 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 15
+[05-Jan-2025 11:27:25 UTC] PHP Fatal error:  Uncaught Exception: Программа немедленно остановится и это сообщение будет выведено. in /home/slava/Projects/dom1/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 12
+[05-Jan-2025 11:27:25 UTC] PHP Fatal error:  Uncaught Exception: Программа немедленно остановится и это сообщение будет выведено. in /home/slava/Projects/dom1/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 12
+[05-Jan-2025 11:27:25 UTC] PHP Fatal error:  Uncaught Exception: Программа немедленно остановится и это сообщение будет выведено. in /home/slava/Projects/dom1/index.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 12
+[05-Jan-2025 12:19:23 UTC] PHP Warning:  Undefined array key "login" in /home/slava/Projects/dom1/process.php on line 3
+[06-Jan-2025 02:37:57 UTC] PHP Parse error:  syntax error, unexpected variable "$i" in /home/slava/Projects/dom1/index.php on line 15
+[06-Jan-2025 03:30:53 UTC] PHP Parse error:  Unmatched ')' in /home/slava/Projects/dom1/index.php on line 35
+[06-Jan-2025 15:37:21 UTC] PHP Warning:  Undefined variable $result in /home/slava/Projects/dom1/index.php on line 34
+[06-Jan-2025 15:37:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/slava/Projects/dom1/index.php:34
+Stack trace:
+#0 /home/slava/Projects/dom1/index.php(34): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 34
+[06-Jan-2025 15:37:21 UTC] PHP Warning:  Undefined variable $result in /home/slava/Projects/dom1/index.php on line 34
+[06-Jan-2025 15:37:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, null given in /home/slava/Projects/dom1/index.php:34
+Stack trace:
+#0 /home/slava/Projects/dom1/index.php(34): mysqli_fetch_assoc()
+#1 {main}
+  thrown in /home/slava/Projects/dom1/index.php on line 34

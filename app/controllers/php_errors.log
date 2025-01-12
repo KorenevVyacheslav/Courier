@@ -1,0 +1,8 @@
+[08-Jan-2025 03:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\core\Controller" not found in /home/slava/Projects/dom1/app/controllers/ControllerFill.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/app/controllers/ControllerFill.php on line 11
+[08-Jan-2025 05:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\core\Controller" not found in /home/slava/Projects/dom1/app/controllers/ControllerCourier.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/slava/Projects/dom1/app/controllers/ControllerCourier.php on line 7
