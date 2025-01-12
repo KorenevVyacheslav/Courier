@@ -15,10 +15,11 @@ class ControllerInput extends Controller	{
 	function action_index()	{	
 
 	   $data = [								
-		'errors' => [],							// массив ошибок
+		'errors' => [],							// массив ошибокgit remote add githublinux https://github.com/KorenevVyacheslav/example
 		'messages'=>[],							// массив сообщений
 		'check' => true,						// флаг пустой таблицы заказов  
 	];
+
 
 		$check = DB::get_orders_table ();											// если нет ни одной записи, то надо вывести кнопку заполнения таблицы
 		 		

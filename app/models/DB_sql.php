@@ -5,10 +5,10 @@ namespace App\models;
 use PDO;
 use PDOException;
 
-// класс - обертка для работы с БД PostgreSQL
-class DB {
+// класс - обертка для работы с БД MySQL
+class DB_sql {
 
-	public static $dsn = 'pgsql:dbname='.DB_NAME.';host='.HOST.'';
+	public static $dsn = 'mysql:dbname='.DB_NAME.';host='.HOST.'';
 	public static $user = USER;
 	public static $pass = PASSWORD;
  
@@ -39,7 +39,8 @@ class DB {
 				self::$dbh = new PDO(
 					self::$dsn, 
 					self::$user, 
-					self::$pass
+					self::$pass, 
+					array(PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES 'utf8'")
 				);
                 // Устанавливаем режим, при котором PDO генерирует предупреждения
 				self::$dbh->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
@@ -102,7 +103,7 @@ class DB {
 //		self::$sth = self::getDbh()->prepare($query);
 //		return (self::$sth->execute((array) $param)) ? self::getDbh()->lastInsertId() : 0;
 
-        $query = "INSERT INTO courier (name, surname, patronyc) VALUES (:name, :surname, :patronyc)"; ;
+        $query = "INSERT INTO courier SET `name` = :name , `surname` = :surname, `patronyc` = :patronyc" ;
         self::$sth = self::getDbh()->prepare($query);
         return (self::$sth->execute(array ('name' => $name, 'surname' => $surname, 'patronyc' => $patronyc)) )? self::getDbh()->lastInsertId() : 0;
     }
@@ -116,7 +117,7 @@ class DB {
 //		self::$sth = self::getDbh()->prepare($query);
 //		return (self::$sth->execute((array) $param)) ? self::getDbh()->lastInsertId() : 0;
 
-        $query = "INSERT INTO orders (town_id, courier_id, start_date) VALUES (:town_id, :courier_id, :date)" ;
+        $query = "INSERT INTO orders SET `town_id` = :town_id , `courier_id` = :courier_id, `start_date` = :date" ;
         self::$sth = self::getDbh()->prepare($query);
         return (self::$sth->execute(array ('town_id' => $town_id, 'courier_id' => $courier_id, 'date' => $date)) )? self::getDbh()->lastInsertId() : 0;
 

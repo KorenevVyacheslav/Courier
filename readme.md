@@ -20,7 +20,6 @@
 + БД: MySQL 
 + Фронт: Ajax-запросы 
 + Передача и приём сообщений происходит посредством AJAX-запросов.
-+ Мессенджер работает без использования "Сookie".
 
 ![alt text](./pictures/printscreen.png)
 
@@ -37,4 +36,6 @@
 
 ## Как открыть/запустить
 
-Клонировать https://github.com/KorenevVyacheslav/Courier в  папку c вашими доменами. В файле config.php переопределить константы для подключения к вашей БД. В вашей СУБД запустить Mysql script. sql для создания таблиц. Выполнить команду "composer update" для загрузки папки 'vendor'. Запустить index.php. 
+Клонировать https://github.com/KorenevVyacheslav/Courier в  папку c вашими доменами. В файле config.php переопределить константы для подключения к вашей БД. 
+В зависимости от вашей СУБД запустить Mysql script или PostgreSQL script для создания таблиц. Если у вас MySQL, то удалить файл app/models/DB.php и переименовать DB_sql.php в DB.php.
+Выполнить команду "composer update" для загрузки папки 'vendor'. Запустить index.php. 
